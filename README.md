@@ -26,7 +26,7 @@ An automated copywriting pipeline that generates SEO-ready product descriptions 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/product-description-generator.git
+git clone https://github.com/mohitmanglani/product-description-engine.git
 cd product-description-generator
 
 # 2. Create and activate a virtual environment
