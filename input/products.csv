@@ -1,0 +1,51 @@
+product_id,product_name,category,key_features,target_audience,price,brand
+P001,ZenBook Ultra 14 Laptop,Electronics,Intel Core i7-13th Gen|14-inch 2.8K OLED display|32GB RAM|1TB NVMe SSD|12-hour battery life,Professionals and creative students,1299.99,ZenBook
+P002,SoundCore ANC Pro Earbuds,Electronics,Active noise cancellation|10mm dynamic drivers|30-hour battery|IPX5 water-resistant|Wireless charging case,Commuters and music lovers,79.99,SoundCore
+P003,PixelShot 4K Action Camera,Electronics,4K 60fps video|170° wide-angle lens|Voice control|Built-in stabilization|Waterproof to 30m,Adventure travelers and content creators,249.99,PixelShot
+P004,ChargePad Trio 15W,Electronics,15W fast wireless charging|3-device simultaneous charge|LED status indicator|Universal Qi compatibility|Anti-slip surface,Multi-device users and tech enthusiasts,44.99,ChargePad
+P005,SmartWatch Series X,Electronics,Health monitoring|ECG and SpO2 sensors|GPS tracking|7-day battery|100+ workout modes,Health-conscious adults and fitness trackers,199.99,VitaWear
+P006,CloudStep Trail Runner,Footwear,Carbon fiber plate|Responsive EVA foam|Breathable knit upper|Grippy Vibram outsole|Drop-in insole,Trail runners and ultramarathon athletes,149.99,CloudStep
+P007,UrbanWalk Leather Oxford,Footwear,Full-grain leather upper|Cushioned memory foam insole|Goodyear welt construction|Slip-resistant sole|Classic brogue detailing,Professional men aged 25-45,189.99,UrbanWalk
+P008,FlexStride Kids Sneaker,Footwear,Velcro closure|Flexible rubber sole|Washable upper|Wide fit|Reflective heel tab,Parents of children aged 3-10,34.99,FlexStride
+P009,ArcticGrip Winter Boot,Footwear,Waterproof nubuck leather|Thinsulate insulation|-40°C rated|Ice-grip outsole|Pull-on loop design,Winter outdoor workers and cold-climate commuters,124.99,ArcticGrip
+P010,SlipOn Bamboo Loafer,Footwear,Sustainable bamboo fiber lining|Memory foam footbed|Vegan leather upper|Elastic gore panels|Odor-resistant,Eco-conscious adults seeking casual comfort,64.99,TerraTread
+P011,AeroBlend Pro Blender,Kitchen,2200W motor|6-blade hardened steel assembly|64oz BPA-free pitcher|12 preset programs|Self-cleaning cycle,Home cooks and smoothie enthusiasts,149.99,AeroBlend
+P012,CastIron Chef Skillet 12",Kitchen,Pre-seasoned cast iron|Even heat distribution|Oven-safe to 500°F|Compatible with all cooktops|Dual pour spouts,Home chefs and cast iron collectors,54.99,IronChef
+P013,BrewMaster Pour-Over Set,Kitchen,Borosilicate glass carafe|Stainless steel filter|Cork handle|600ml capacity|Heat-resistant base,Coffee enthusiasts and minimalist brewers,39.99,BrewMaster
+P014,SmartCook Air Fryer 6Qt,Kitchen,6-quart capacity|8 cooking presets|Touch LCD display|Dishwasher-safe basket|Rapid air circulation technology,Busy families and health-conscious cooks,89.99,SmartCook
+P015,KnifeBlock Elite Set 7pc,Kitchen,German high-carbon steel|Full tang construction|Ergonomic pakkawood handles|Magnetic acacia wood block|Hand-sharpened 15° edge,Serious home cooks and culinary students,229.99,EliteBlade
+P016,PowerRack Home Gym,Fitness,1000lb weight capacity|Adjustable J-hooks|Pull-up bar|Spotter arms|Powder-coated steel frame,Home gym owners and strength athletes,499.99,PowerRack
+P017,YogaFlow Pro Mat,Fitness,6mm non-slip natural rubber|Alignment guide lines|Moisture-wicking surface|Carrying strap included|Eco-certified materials,Yoga practitioners and Pilates enthusiasts,68.99,YogaFlow
+P018,SpinCycle Smart Bike,Fitness,22-level magnetic resistance|Bluetooth connectivity|Peloton-compatible|Adjustable seat and handlebars|Silent belt drive,Indoor cycling enthusiasts and apartment dwellers,799.99,SpinCycle
+P019,RecoveryPro Massage Gun,Fitness,6 interchangeable heads|5 speed settings|Quiet glide technology 45dB|2500mAh battery|LCD pressure display,Athletes and post-workout recovery users,119.99,RecoveryPro
+P020,JumpFit Speed Rope,Fitness,Adjustable aircraft-grade aluminum cable|Ball-bearing handles|Tangle-free design|Foam grip handles|Fits up to 6'4",CrossFit athletes and jump rope beginners,24.99,JumpFit
+P021,GlowSerum Vitamin C 20%,Skincare,20% L-ascorbic acid|Hyaluronic acid|Ferulic acid stabilizer|Fragrance-free|Dermatologist tested,Adults with hyperpigmentation and dull skin,58.99,GlowLab
+P022,HydraBarrier SPF 50 Moisturizer,Skincare,Broad-spectrum SPF 50|Ceramide complex|Niacinamide 5%|Lightweight gel texture|Reef-safe formula,Outdoor workers and sun-sensitive skin types,42.99,HydraShield
+P023,RetinolRx Night Cream 0.5%,Skincare,0.5% encapsulated retinol|Peptide complex|Squalane oil|pH-balanced formula|Suitable for beginners,Adults 30+ targeting fine lines and texture,64.99,DermaRx
+P024,CleanStart Gentle Cleanser,Skincare,pH 5.5 balanced|Micellar technology|Aloe vera extract|No sulfates or parabens|Suitable for all skin types,Teens and adults with sensitive or acne-prone skin,18.99,CleanStart
+P025,MaskBar Kaolin Clay Mask,Skincare,Kaolin and bentonite clay|Tea tree extract|Activated charcoal|10-minute formula|Pore-minimizing effect,Oily and combination skin types aged 16-35,26.99,MaskBar
+P026,LinenDream Duvet Set Queen,Home Decor,100% stone-washed linen|OEKO-TEX certified|Button closure|Includes 2 pillowcases|Machine washable,Adults seeking sustainable bedroom upgrades,149.99,LinenDream
+P027,WoodGrain Floating Shelf Set,Home Decor,Solid oak veneer|Invisible bracket system|Holds up to 30lbs each|Set of 3 sizes|Easy 10-minute install,Renters and minimalist home decorators,79.99,ShelfCo
+P028,ArcLight Floor Lamp,Home Decor,Arc arm extends 70 inches|Integrated LED 800 lumens|3000K warm white|Foot dimmer switch|Weighted marble base,Interior design enthusiasts and reading nook creators,129.99,ArcLight
+P029,VelvetNest Throw Pillow Set,Home Decor,Velvet fabric cover|Hypoallergenic fill|Zipper closure|Set of 4 mixed sizes|Dry-clean safe,Home stylists and living room refresh shoppers,54.99,NestHome
+P030,FrameGrid Gallery Wall Kit,Home Decor,12-piece mixed frame set|Black matte finish|Shatterproof acrylic fronts|Pre-cut mats included|Wall template guide,First-time homeowners and apartment decorators,94.99,FrameGrid
+P031,PawComfort Orthopedic Dog Bed,Pet Supplies,Memory foam base|Waterproof inner liner|Removable washable cover|Non-slip bottom|Available in S/M/L/XL,Dog owners with senior or large-breed dogs,89.99,PawComfort
+P032,AutoFeeder Smart Pet Dispenser,Pet Supplies,Wi-Fi enabled app control|2.4L capacity|Portion control programming|Built-in camera|Voice message recorder,Busy pet owners and frequent travelers,79.99,PetIQ
+P033,CatTree Luxe Tower 72",Pet Supplies,Sisal scratching posts|3 plush perches|Hammock level|Dangling toy|Sturdy base for cats up to 25lbs,Cat owners with multiple cats or active indoor cats,149.99,CatLuxe
+P034,AquaFilter Pro Fish Tank 20Gal,Pet Supplies,20-gallon tempered glass|3-stage filtration|LED planted lighting|Silent pump|Adjustable flow rate,Beginner and intermediate aquarium hobbyists,179.99,AquaFilter
+P035,PawGroom Slicker Brush,Pet Supplies,Fine stainless steel bristles|Self-cleaning push button|Ergonomic non-slip handle|Gentle on sensitive skin|Suits all coat types,Dog and cat owners seeking salon-quality grooming,21.99,PawGroom
+P036,ErgoDesk Pro Standing Desk,Office,Electric height adjustment|Memory preset buttons|Spacious 60x24" desktop|Cable management tray|Anti-collision sensor,Remote workers and people with back pain,549.99,ErgoDesk
+P037,MeshBack Lumbar Chair,Office,Breathable mesh back|Adjustable lumbar support|4D armrests|Seat depth adjustment|300lb weight capacity,Office professionals sitting 8+ hours daily,349.99,PostureElite
+P038,DeskMate Monitor Arm Dual,Office,Supports two monitors up to 32"|Full motion articulation|Cable management channel|VESA 75/100 compatible|C-clamp or grommet mount,Graphic designers and multi-screen power users,119.99,DeskMate
+P039,FocusFlow Noise Machine,Office,20 non-looping sound environments|Timer function|USB and AC powered|Compact travel size|Sleep and focus modes,Open-plan office workers and home office users,44.99,FocusFlow
+P040,PaperPro Electric Stapler,Office,25-sheet capacity|One-touch operation|Jam-free mechanism|LED load indicator|AC and battery powered,Administrative staff and teachers,38.99,PaperPro
+P041,SummitPack 65L Trekking Pack,Outdoor Gear,65L capacity|Aluminum frame stays|Hip belt with pockets|Rain cover included|Hydration compatible,Backpackers and multi-day trekkers,219.99,SummitPack
+P042,ThermoFlask Insulated Bottle 40oz,Outdoor Gear,40oz stainless steel|TempLock keeps cold 24hrs/hot 12hrs|Leak-proof lid|Powder coat finish|BPA-free,Hikers campers and gym-goers,44.99,ThermoFlask
+P043,LuminaHead 400 Headlamp,Outdoor Gear,400-lumen output|Red night-vision mode|Rechargeable via USB-C|IPX6 waterproof|Adjustable beam focus,Campers trail runners and emergency preppers,54.99,LuminaHead
+P044,TrailBlaze 2P Backpacking Tent,Outdoor Gear,2-person capacity|1.8kg ultralight design|4-season poles|Easy 5-minute pitch|Vestibule storage area,Ultralight backpackers and weekend campers,329.99,TrailBlaze
+P045,FireStarter Windproof Lighter,Outdoor Gear,Plasma arc ignition|Windproof up to 50mph|Rechargeable USB-C|Waterproof body|Safety lock,Outdoor survivalists and campers,29.99,FireStarter
+P046,DreamCloud Weighted Blanket 15lb,Sleep & Wellness,15lb glass bead filling|Breathable cotton shell|Removable washable cover|Deep pressure stimulation|Even weight distribution,Adults with anxiety insomnia or sensory processing needs,89.99,DreamCloud
+P047,AromaMist Ultrasonic Diffuser,Sleep & Wellness,500ml water capacity|12-hour continuous mist|7-color ambient LED|Auto shut-off|Whisper-quiet 25dB,Aromatherapy enthusiasts and bedroom relaxation seekers,36.99,AromaMist
+P048,ChillOut Cooling Mattress Pad,Sleep & Wellness,Phase-change material technology|Queen size 60x80"|Machine washable|No power required|Works with any mattress,Hot sleepers and menopausal adults,169.99,ChillOut
+P049,MindRest Meditation Cushion,Sleep & Wellness,Organic buckwheat hull fill|Removable cotton cover|Height-adjustable lacing|Non-slip base|Crescent design,Meditators and yoga practitioners,64.99,MindRest
+P050,SleepRx Magnesium Spray,Sleep & Wellness,Magnesium chloride flakes|Lavender and chamomile blend|100ml travel size|Absorbed through skin|No pills or capsules,Adults with muscle tension and sleep difficulty,24.99,SleepRx
